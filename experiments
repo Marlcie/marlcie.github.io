@@ -1,0 +1,117 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Mark van den Bosch</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+		<section id = "header">
+			<header>
+				<div class="inner">
+					<a href="#" class="image avatar"><img src="images/mark.jpg" alt="" /></a>
+					<h1><strong>Mark van den Bosch</strong><br />
+					 Acoustic Scientist<br />
+					<a href="https://www.tno.nl/en/">TNO</a></h1>
+				</div>
+			</header>
+
+			<nav id="nav">
+					<ul class = "no-bullets">
+						<li class = "current"><a href="about.html"><strong>About me</strong></a></li>
+						<li class = "current"><a href="research.html"><strong>Research</strong></a></li>
+            <li class = "current"><a href="research.html"><strong>Experiments</strong></a></li>
+						<li class = "current"><a href="publications.html"><strong>Publications</strong></a></li>
+						<li class = "current"><a href="conferences.html"><strong>Conferences</strong></a></li>
+						<li class = "current"><a href="biography.html"><strong>Biography</strong></a></li>
+					</ul>
+            </nav>
+            <footer id="footer">
+				<div class="inner">
+					<ul class="icons">
+                        <li><a href="mailto:mark.vandenbosch@tno.nl" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+						<li><a href="mailto:mark-bosch@hotmail.com" class="icon solid fa-paper-plane"><span class="label">Email</span></a></li>
+						<li><a href="https://www.linkedin.com/in/mark-van-den-bosch-362713201/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                        <li><a href="https://orcid.org/0009-0003-7347-4290" class="icon brands fa-orcid"><span class="label">ORCID</span></a></li>
+						<li><a href="https://www.researchgate.net/profile/Mark-Van-Den-Bosch-4" class="icon brands fa-researchgate"><span class="label">ResearchGate</span></a></li>
+						<li><a href="https://scholar.google.nl/citations?user=ntsyyK4AAAAJ&hl=en" class="icon brands fa-google-scholar"><span class="label">GoogleScholar</span></a></li>
+						</ul>
+					<ul class="copyright">
+						<li>&copy; </li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+        </section>
+        
+        <div id = "main">
+        <section id="research">
+            <div class="container">
+                <header class="major">
+                <h2>Research</h2>
+                <div class="row">
+                    <article class="col-6 col-12-xsmall work-item">
+                        <a href="images/Research/figure1.1.png" class="image fit thumb"><img src="images/Research/figure1.1.png" alt="" /></a>
+                        <h3>Metastability of planar waves in stochastic reaction-diffusion systems</h3>
+                        <p> We have established the metastability of planar travelling waves in stochastic reaction–diffusion systems propagating on either a cylindrical domain or the whole space. We show that these patterns persist, with (exponentially) high probability, on timescales that are exponentially long with respect to the inverse of the noise strength. We do so by tracking the wave. local, global. also what is speed in both cases.
+                        <br>
+                        <br>
+                        TEXT Click <a href="https://github.com/Marlcie/PhDresearch/tree/main/Metastability">here</a></h1> for the directory about this topic, including videos, images, and the corresponding papers.
+						</p>
+                    </article>
+                    <article class="col-6 col-12-xsmall work-item">
+                        <a href="images/Research/figure1.3X (1).png" class="image fit thumb"><img src="images/Research/figure1.3X (1).png" alt="" /></a>
+                        <h3>Existence of invariant probability measures for population dynamics models with and without noise.</h3>
+                        <p> Stochatic versions of the celebrated Mackey--Glass equations, Nicholson blowflies equation, and Wright's equation.
+						<br>
+                        <br>
+                        TEXT Click <a href="https://github.com/Marlcie/PhDresearch/tree/main/Invariant%20Measures">here</a></h1> for the directory about this topic, including videos, images, and the corresponding papers.
+						</p>
+                    </article>
+                    <article class="col-6 col-12-xsmall work-item">
+                        <a href="images/Research/CH5.001.jpeg" class="image fit thumb"><img src="images/Research/CH5.001.jpeg" alt="" /></a>
+                        <h3>The effect of Pyragas control in pattern formation</h3>
+                        <p> Text ...<br>
+                        <br>
+                        TBA
+						<br>
+                        <br>
+                        TEXT Click <a href="https://github.com/Marlcie/PhDresearch/tree/main/Pyragas%20Control">here</a></h1> for the directory about this topic, including videos, images, and the corresponding papers.
+						 </p>
+                    </article>
+                    <!--<article class="col-6 col-12-xsmall work-item">
+                        <a href="images/fulls/05.jpg" class="image fit thumb"><img src="images/thumbs/05.jpg" alt="" /></a>
+                        <h3>Nunc enim commodo aliquet</h3>
+                        <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+                    </article>
+                    <article class="col-6 col-12-xsmall work-item">
+                        <a href="images/fulls/06.jpg" class="image fit thumb"><img src="images/thumbs/06.jpg" alt="" /></a>
+                        <h3>Risus ornare lacinia</h3>
+                        <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+                    </article>
+                </div>
+                <ul class="actions">
+                    <li><a href="#" class="button">Full Portfolio</a></li>
+                </ul> -->
+                </header>
+            </div>
+        </section>
+        </div>
+        
+        <!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+    </body>
+</html>
